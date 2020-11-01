@@ -3,7 +3,7 @@
     "appartements": [
       {
         "adresse": "Quartier Georges Brassens, Paris 15ème",
-        "name": "Appartement Paris",
+        "name": "Appartement Paris 15",
         "prix": "355 000 €",
         "dimension": "36m²",
         "disponible": "available",
@@ -11,33 +11,33 @@
       },
       {
         "adresse": "Quartier Bastille-Popincourt, Paris 11ème",
-        "name": "Appartement Paris",
+        "name": "Appartement Paris 11",
         "prix": "598 000 €",
         "dimension": "48m²",
         "disponible": "available",
         "photo": "appartement2.jpg"
       },
       {
-        "adresse": "Quartier Bastille-Popincourt, Paris 11ème",
-        "name": "Appartement Paris",
-        "prix": "598 000 €",
-        "dimension": "48m²",
-        "disponible": "out",
+        "adresse": "Quartier Gambetta, Paris 20ème",
+        "name": "Appartement Paris 20",
+        "prix": "435 000 €",
+        "dimension": "41m²",
+        "disponible": "no available",
         "photo": "appartement3.jpg"
       },
       {
-        "adresse": "Quartier Bastille-Popincourt, Paris 11ème",
-        "name": "Appartement Paris",
-        "prix": "598 000 €",
-        "dimension": "48m²",
+        "adresse": "Quartier Le Centre Ville, Villiers-sur-Marne",
+        "name": "Appartement Villiers-Sur-Marne",
+        "prix": "182 000 €",
+        "dimension": "79m²",
         "disponible": "available",
         "photo": "appartement4.jpg"
       },
       {
-        "adresse": "Quartier Bastille-Popincourt, Paris 11ème",
-        "name": "Appartement Paris",
-        "prix": "598 000 €",
-        "dimension": "48m²",
+        "adresse": "Quartier Centre Ville-Basilique, Saint-Denis",
+        "name": "Appartement Saint Denis",
+        "prix": "409 000 €",
+        "dimension": "94,17m²",
         "disponible": "available",
         "photo": "appartement5.jpg"
       }
