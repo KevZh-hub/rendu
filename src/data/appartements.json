@@ -1,0 +1,45 @@
+{
+    "name": "appartement",
+    "appartements": [
+      {
+        "adresse": "Quartier Georges Brassens, Paris 15ème",
+        "name": "Appartement Paris",
+        "prix": "355 000 €",
+        "dimension": "36m²",
+        "disponible": "available",
+        "photo": "appartement1.jpg"
+      },
+      {
+        "adresse": "Quartier Bastille-Popincourt, Paris 11ème",
+        "name": "Appartement Paris",
+        "prix": "598 000 €",
+        "dimension": "48m²",
+        "disponible": "available",
+        "photo": "appartement2.jpg"
+      },
+      {
+        "adresse": "Quartier Bastille-Popincourt, Paris 11ème",
+        "name": "Appartement Paris",
+        "prix": "598 000 €",
+        "dimension": "48m²",
+        "disponible": "out",
+        "photo": "appartement3.jpg"
+      },
+      {
+        "adresse": "Quartier Bastille-Popincourt, Paris 11ème",
+        "name": "Appartement Paris",
+        "prix": "598 000 €",
+        "dimension": "48m²",
+        "disponible": "available",
+        "photo": "appartement4.jpg"
+      },
+      {
+        "adresse": "Quartier Bastille-Popincourt, Paris 11ème",
+        "name": "Appartement Paris",
+        "prix": "598 000 €",
+        "dimension": "48m²",
+        "disponible": "available",
+        "photo": "appartement5.jpg"
+      }
+    ]
+  }
