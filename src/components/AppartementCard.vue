@@ -7,7 +7,7 @@
       <h1 class="text-lg font-bold">{{ AppartementName }}</h1>
     </div>
     <base-button    
-      text="Voir l'offre"
+      text="Ajouter à la selection"
       @click="addToSelection"
     >
     </base-button>
